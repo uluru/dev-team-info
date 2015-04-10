@@ -4,7 +4,7 @@
 
 ## 我々の目指す姿
 
-メンバーみんなで話し合い、「[開発チームのあるべき姿](https://github.com/uluru/dev-team-info/blob/add-ideal/1-%E6%88%91%E3%80%85%E3%81%AE%E7%9B%AE%E6%8C%87%E3%81%99%E5%A7%BF.md)」について記したものです
+メンバーみんなで話し合い、「[開発チームのあるべき姿](https://github.com/uluru/dev-team-info/blob/master/1-%E6%88%91%E3%80%85%E3%81%AE%E7%9B%AE%E6%8C%87%E3%81%99%E5%A7%BF.md)」について記したものです
 
 ## Tech information
 
